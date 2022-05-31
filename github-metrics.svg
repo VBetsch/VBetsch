@@ -32,7 +32,7 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            780 Commits
+                            781 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.1087829170827" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="272.1087829170827" y="0" width="115.31808381992114" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.4268667370038" y="0" width="64.46048641254983" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.88735314955363" y="0" width="5.627717529299414" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.5150706788531" y="0" width="1.2871286758466995" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8021993546998" y="0" width="0.9052526353821988" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.707451990082" y="0" width="0.18170074844263606" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="459.8891527385246" y="0" width="0.11084726147537127" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.1116524278104" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="272.1116524278104" y="0" width="115.31929990150097" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.4309523293113" y="0" width="64.46116617766174" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.892118506973" y="0" width="5.627776876137282" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.5198953831103" y="0" width="1.2871422492032947" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8070376323136" y="0" width="0.9004112727166662" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.7074489050303" y="0" width="0.1817026645595702" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="459.8891515695899" y="0" width="0.11084843041009851" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1560,7 +1560,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 703k out of 91m users</span>
+                                    <span class="gh">ranked 704k out of 91m users</span>
                                 </div>
                                 <div class="text">Followed by 13 users</div>
                             </div>
@@ -1919,7 +1919,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2022, 17:15:10 (timezone Africa/Tripoli) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 31 May 2022, 18:17:34 (timezone Africa/Tripoli) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
