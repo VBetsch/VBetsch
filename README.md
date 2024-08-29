@@ -5,7 +5,7 @@
 🏫 Web development student<br>
 🥷 Front-End Developper at [@shinken-solutions](https://github.com/shinken-solutions)<br>
 <img src="img/email.svg" height="10px" style="padding: 0 2px;"> vbetsch.contact@gmail.com<br>
-<img src="img/linkedin.svg" height="12px" style="padding: 0 2px;"> https://www.linkedin.com/in/vbetsch/<br>
+<img src="img/linkedin.svg" height="12px" style="padding: 0 2px;"> [in/vbetsch](https://www.linkedin.com/in/vbetsch/)<br>
 
 <details>
 <summary>Skills</summary>
